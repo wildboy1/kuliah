@@ -31,16 +31,16 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="695.5" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="545" />
-              <mxPoint x="540" y="410" />
+              <mxPoint x="590" y="545" />
+              <mxPoint x="590" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YGptp0DmgvDaWWcgnBFP-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YGptp0DmgvDaWWcgnBFP-22" target="YGptp0DmgvDaWWcgnBFP-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YGptp0DmgvDaWWcgnBFP-22" value="&lt;div&gt;jika nilai&amp;nbsp;&lt;/div&gt;&lt;div&gt;array pointer&amp;nbsp;&lt;/div&gt;&lt;div&gt;ada yang max &lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="490" width="160" height="110" as="geometry" />
+        <mxCell id="YGptp0DmgvDaWWcgnBFP-22" value="&lt;div&gt;jika nilai&amp;nbsp;&lt;/div&gt;&lt;div&gt;array pointer&amp;nbsp;&lt;/div&gt;&lt;div&gt;ada yang max &lt;/div&gt;&amp;nbsp;akan melakukan update terhadap variable max" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="490" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="YGptp0DmgvDaWWcgnBFP-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YGptp0DmgvDaWWcgnBFP-24" target="YGptp0DmgvDaWWcgnBFP-1">
           <mxGeometry relative="1" as="geometry" />
